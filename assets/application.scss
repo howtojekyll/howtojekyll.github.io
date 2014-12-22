@@ -12,7 +12,8 @@ $header-height: 250px;
   top: 0;
   width: 100%;
 
-  background: #abcdef;
+  background: #1C05F0;
+  color: #fff;
   height: $header-height;
   margin-top: 0px;
   margin-bottom: 20px;
@@ -34,6 +35,7 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: $footer-height;
+  background: #D48A3F;
 }
 
 .footer {
