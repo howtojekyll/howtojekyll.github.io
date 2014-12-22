@@ -1,6 +1,7 @@
 ---
+layout: default
 ---
 
-#Hello from Jekyll
+#This is Sam's website
 
-Words words words words
+One day there will be something interesting here
